@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, web frameworks, unity game engine
 - 🌱 I’m currently learning React,Bootstrap 4
 - 💞️ I’m looking to collaborate on python, unity, js projects
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me ... -->
 
 <!---
 Harshwardhan4426/Harshwardhan4426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
